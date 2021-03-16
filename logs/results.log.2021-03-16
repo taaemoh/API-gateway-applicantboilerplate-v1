@@ -1,0 +1,29 @@
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Admin User Created. Email: niek.heezemans@frontmen.nl - Username: admin","level":"info"}
+{"message":"Admin Role ID Created","level":"info"}
+{"message":"Admin Branch ID Created","level":"info"}
+{"message":"Invalid Token on request: /login/verify","level":"warn"}
+{"message":"Invalid Token on request: /login/verify","level":"warn"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Invalid Token on request: /cache/clear","level":"warn"}
+{"message":"Invalid Token on request: /login/verify","level":"warn"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Invalid Token on request: /login/verify","level":"warn"}
+{"message":"Invalid Token on request: /login/verify","level":"warn"}
+{"message":"Invalid Token on request: /login/verify","level":"warn"}
+{"message":"Invalid Token on request: /login/verify","level":"warn"}
+{"message":"Invalid Token on request: /login/verify","level":"warn"}
+{"message":"Invalid Token on request: /cache/clear","level":"warn"}
+{"message":"Invalid Token on request: /login/verify","level":"warn"}
+{"message":"Invalid Token on request: /login/verify","level":"warn"}
+{"message":"Invalid Token on request: /login/verify","level":"warn"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Cache Cleared","level":"info"}
