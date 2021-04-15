@@ -9,6 +9,7 @@ const app = express();
 const apiV1 = require('./apiV1/router');
 
 const healthcheck = require('./healthcheck/healthcheck');
+const myApi = require('./myApi/myApi');
 const login = require('./authentication/login/login');
 const verify = require('./authentication/verify/verify');
 const caching = require('./caching/caching');
@@ -20,7 +21,7 @@ require('./middleware/middleware')(app);
  */
 
 // Use protected Endpoints
-app.use('/*', require( './authentication/protected-endpoints/protected-enpoints' ));
+app.use('/*', require( './authentication/protected-endpoints/protected-enpoints' )); 
 
 // Login
 app.use('/login', login);
@@ -29,7 +30,10 @@ app.use('/login', login);
 app.use('/login/verify', verify);
 
 // Healthcheck
-app.use('/healthcheck', healthcheck);
+app.use('/healthcheck', healthcheck);  
+
+// My Chuck norris API endpoint
+app.use('/myapi', myApi);
 
 // Caching
 app.use('/cache', caching);
